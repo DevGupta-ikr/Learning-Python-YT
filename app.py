@@ -34,7 +34,7 @@ print(phrase)  # using variables
 print(phrase + " is cool")  # concatenation
 
 
-# Functions in Strings
+# Functions of Strings
 
 phrase = "Hello ThErE"
 print(phrase.lower())
